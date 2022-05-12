@@ -22,4 +22,4 @@ jobs:
           wget -O test.csv "https://docs.google.com/spreadsheets/d/${GSHEET_ID}/gviz/tq?tqx=out:csv&sheet=Derby History"
           cat test.csv
         env:
-          GSHEET_ID: ${{ secrets GSHEET_ID }}
+          GSHEET_ID: ${{ secrets.GSHEET_ID }}
