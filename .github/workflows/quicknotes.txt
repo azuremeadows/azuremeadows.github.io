@@ -1,0 +1,5 @@
+How to export from an google sheet: 
+https://stackoverflow.com/questions/37705553/how-to-export-a-csv-from-google-sheet-api
+
+Google Sheets Query "API":
+https://developers.google.com/chart/interactive/docs/querylanguage
