@@ -11,6 +11,7 @@ Azure Meadows is a Hay Day Neighborhood (aka Guild, Clan, Alliance, Team, etc.).
 
 ## Neighborhood Tags
 
+<div class="code-example" markdown="1">
 Fun
 {: .label .label-yellow }
 
@@ -25,6 +26,8 @@ Derby: 320 Only
 
 Helpers
 {: .label .label-yellow }
+</div>
+
 
 ## Neighborhood Stats
 - Number of Members: {{ site.data.memberStats | size }}

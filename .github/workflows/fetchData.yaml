@@ -1,0 +1,25 @@
+on:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - 'README.md'
+
+defaults:
+  run:
+    shell: bash
+
+jobs:
+  getCsv:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out the repo
+        uses: actions/checkout@v3
+      
+      - name: curl output
+        run: |
+          wget -O test.csv "https://docs.google.com/spreadsheets/d/${GSHEET_ID}/gviz/tq?tqx=out:csv&sheet=Derby History"
+          cat test.csv
+        env:
+          GSHEET_ID: ${{ secrets GSHEET_ID }}
