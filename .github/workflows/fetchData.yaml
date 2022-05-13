@@ -4,7 +4,7 @@ on:
       - main
     paths-ignore:
       - 'README.md'
-      - 'docs/'
+      - 'docs/**'
 
 defaults:
   run:
@@ -32,4 +32,4 @@ jobs:
         with:
           add: 'docs/_data/.'
           author_name: 'curl-pull'
-          author_email: 'devnull@mailinator.com'
+          author_email: '15102e70ac374f608ee257ff035ca616@mailinator.com'
