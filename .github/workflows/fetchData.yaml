@@ -17,6 +17,8 @@ jobs:
     steps:
       - name: Check out the repo
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.PAT }}
       
       - name: Get Derby History
         run: |
@@ -31,4 +33,3 @@ jobs:
           add: 'docs/_data/.'
           author_name: 'curl-pull'
           author_email: 'devnull@mailinator.com'
-          
