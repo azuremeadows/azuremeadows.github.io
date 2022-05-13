@@ -1,4 +1,8 @@
 title: Azure Meadows
+domain: azuremeadows.github.io
+url: https://azuremeadows.github.io
+baseurl: /azuremeadows.github.io/docs
+
 remote_theme: just-the-docs/just-the-docs
 color_scheme: dark
 
