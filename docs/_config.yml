@@ -4,4 +4,3 @@ color_scheme: dark
 
 logo: "/assets/AzureMeadowsEmblem.png"
 
-exclude: [README.md, .devcontainer/]
