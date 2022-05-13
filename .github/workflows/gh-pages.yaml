@@ -23,3 +23,5 @@ jobs:
       - uses: helaili/jekyll-action@v2        # Choose any one of the Jekyll Actions
         with:                                # Some relative inputs of your action
           token: ${{ secrets.GITHUB_TOKEN }}
+          target_branch: gh-pages
+          target_path: /
