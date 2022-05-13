@@ -6,7 +6,7 @@
         {
             "label": "Serve",
             "type": "shell",
-            "command": "bundle exec jekyll serve --livereload",
+            "command": "BUNDLE_GEMFILE='./docs/Gemfile' bundle exec jekyll serve --livereload --source ./docs",
             "group": {
                 "kind": "test",
                 "isDefault": true
@@ -16,7 +16,7 @@
         {
             "label": "Build",
             "type": "shell",
-            "command": "bundle exec jekyll build",
+            "command": "BUNDLE_GEMFILE='./docs/Gemfile' bundle exec jekyll build --source ./docs",
             "group": {
                 "kind": "build",
                 "isDefault": true
