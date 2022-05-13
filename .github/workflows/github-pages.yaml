@@ -17,12 +17,12 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-gems-
 
-      - name: Jekyll Build
-        uses: actions/jekyll-build-pages@v1
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+      # - name: Jekyll Build
+      #   uses: actions/jekyll-build-pages@v1
+      #   with:
+      #     token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Deploy Pages
-        uses: actions/deploy-pages@v1
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+      # - name: Deploy Pages
+      #   uses: actions/deploy-pages@v1
+      #   with:
+      #     token: ${{ secrets.GITHUB_TOKEN }}
