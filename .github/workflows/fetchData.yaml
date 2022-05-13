@@ -20,16 +20,16 @@ jobs:
         with:
           token: ${{ secrets.PAT }}
       
-      - name: Get Derby History
-        run: |
-          wget -O ./docs/_data/DerbyHistory.csv "https://docs.google.com/spreadsheets/d/${GSHEET_ID}/gviz/tq?tqx=out:csv&sheet=Derby History"
-          cat ./docs/_data/DerbyHistory.csv
-        env:
-          GSHEET_ID: ${{ secrets.GSHEET_ID }}
+      # - name: Get Derby History
+      #   run: |
+      #     wget -O ./docs/_data/DerbyHistory.csv "https://docs.google.com/spreadsheets/d/${GSHEET_ID}/gviz/tq?tqx=out:csv&sheet=Derby History"
+      #     cat ./docs/_data/DerbyHistory.csv
+      #   env:
+      #     GSHEET_ID: ${{ secrets.GSHEET_ID }}
 
-      - name: Git Add and Commit
-        uses: EndBug/add-and-commit@v9.0.0
-        with:
-          add: 'docs/_data/.'
-          author_name: 'curl-pull'
-          author_email: '15102e70ac374f608ee257ff035ca616@mailinator.com'
+      # - name: Git Add and Commit
+      #   uses: EndBug/add-and-commit@v9.0.0
+      #   with:
+      #     add: 'docs/_data/.'
+      #     author_name: 'curl-pull'
+      #     author_email: '15102e70ac374f608ee257ff035ca616@mailinator.com'
