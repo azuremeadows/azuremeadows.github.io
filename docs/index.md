@@ -30,6 +30,9 @@ Helpers
 
 
 ## Neighborhood Stats
+
+Please note that these numbers are not real and are only provided for testing purposes. 😀
+
 - Number of Members: {{ site.data.memberStats | size }}
 - Derby League: {{ site.data.neighborhoodInfo.derby.league | capitalize }}
 - Average Points per Player: {{ site.data.neighborhoodInfo.derby.averagePointsPerPlayer }}

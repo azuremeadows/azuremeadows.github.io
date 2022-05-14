@@ -4,6 +4,8 @@ permalink: member-stats.html
 nav_order: 2
 ---
 
+Please note that these numbers are not real and are only provided for testing purposes. 😀
+
 <table>
   {% for row in site.data.memberStats %}
     {% if forloop.first %}

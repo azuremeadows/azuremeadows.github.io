@@ -1,7 +1,10 @@
+name: Build and Deploy gh-pages
 on:
   push:
     branches:
-      - experimental
+      - main
+    paths:
+      - 'docs/**' 
 
 defaults:
   run:
