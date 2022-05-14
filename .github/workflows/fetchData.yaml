@@ -6,6 +6,8 @@ on:
   #   paths-ignore:
   #     - 'README.md'
   #     - 'docs/**'
+  label:
+    types: [deleted]
 
 defaults:
   run:
