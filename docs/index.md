@@ -31,10 +31,10 @@ Helpers
 
 ## Neighborhood Stats
 
-Please note that these numbers are not real and are only provided for testing purposes. 😀
+Coming soon!!
 
-- Number of Members: {{ site.data.memberStats | size }}
+- Number of Members: 
 - Derby League: {{ site.data.neighborhoodInfo.derby.league | capitalize }}
-- Average Points per Player: {{ site.data.neighborhoodInfo.derby.averagePointsPerPlayer }}
-- Average Completed Tasks per Player: {{ site.data.neighborhoodInfo.derby.averageCompletedTasksPerPlayer }}
-- Percentage of All Tasks Completed: {{ site.data.neighborhoodInfo.derby.percentageOfAllTasksCompleted }}
+- Average Points per Player: 
+- Average Completed Tasks per Player: 
+- Percentage of All Tasks Completed: 
