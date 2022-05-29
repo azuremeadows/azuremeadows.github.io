@@ -6,15 +6,13 @@ on:
     paths-ignore:
       - 'README.md'
       - 'docs/**'
-  label:
-    types: [deleted]
 
 defaults:
   run:
     shell: bash
 
 jobs:
-  getCsv:
+  getCsvs:
     runs-on: ubuntu-latest
 
     steps:
@@ -32,8 +30,8 @@ jobs:
 
       - name: Get Neighbor Summary
         run: |
-          curl -o ./docs/_data/Neighbors.csv -L "https://docs.google.com/spreadsheets/d/${GSHEET_ID}/gviz/tq?tqx=out:csv&sheet=Neighbors"
-          cat ./docs/_data/Neighbors.csv
+          curl -o ./docs/_data/memberStats.csv -L "https://docs.google.com/spreadsheets/d/${GSHEET_ID}/gviz/tq?tqx=out:csv&sheet=Neighbors"
+          cat ./docs/_data/memberStats.csv
         env:
           GSHEET_ID: ${{ secrets.GSHEET_ID }}
 
