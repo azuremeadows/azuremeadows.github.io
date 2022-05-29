@@ -30,6 +30,13 @@ jobs:
         env:
           GSHEET_ID: ${{ secrets.GSHEET_ID }}
 
+      - name: Get Neighbor Summary
+        run: |
+          curl -o ./docs/_data/DerbyHistory.csv -Lsss "https://docs.google.com/spreadsheets/d/${GSHEET_ID}/gviz/tq?tqx=out:csv&sheet=Neighbors"
+          cat ./docs/_data/Neighbors.csv
+        env:
+          GSHEET_ID: ${{ secrets.GSHEET_ID }}
+
       - name: Git Add and Commit
         uses: EndBug/add-and-commit@v9.0.0
         with:
