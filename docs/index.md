@@ -44,4 +44,4 @@ Derby information is based on the last four weeks.
 
 ## Debugging
 
-{{ site | inspect }}
+{{ site.github | inspect }}
