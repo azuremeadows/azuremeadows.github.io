@@ -1,13 +1,13 @@
 ---
-title: Member Stats
-permalink: member-stats.html
-nav_order: 2
+title: Derby Performance History
+parent: Derbies
+nav_order: 3
 ---
 
-Derby information is based on the last four weeks.  Strikes are removed after 60 days.
+Derby information is based on the last four weeks.
 
 <table>
-  {% for row in site.data.memberStats %}
+  {% for row in site.data.DerbyHistory %}
     {% if forloop.first %}
     <tr>
       {% for pair in row %}

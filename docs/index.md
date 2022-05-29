@@ -39,4 +39,4 @@ Derby information is based on the last four weeks.
 - Average Number of Derby Participants: {{ site.data.neighborhoodStats[0]["Average Number of Derby Participants"] }}
 - Average Total Derby Points: {{ site.data.neighborhoodStats[0]["Average Number of Points"] }}
 - Average Points per Player: {{ site.data.neighborhoodStats[0]["Average Points per Player"] }}
-- Percentage of All Tasks Completed: {{ site.data.neighborhoodStats[0]["Percentage of Tasks Completed"] }}
+- Percentage of All Tasks Completed: {{ site.data.neighborhoodStats[0]["Percentage of Tasks Completed"] }} %
