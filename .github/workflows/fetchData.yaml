@@ -28,7 +28,14 @@ jobs:
         env:
           GSHEET_ID: ${{ secrets.GSHEET_ID }}
 
-      - name: Get Neighbor Summary
+      - name: Get Neighborhood Stats
+        run: |
+          curl -o ./docs/_data/neighborhoodStats.csv -L "https://docs.google.com/spreadsheets/d/${GSHEET_ID}/gviz/tq?tqx=out:csv&sheet=Neighbors"
+          cat ./docs/_data/neighborhoodStats.csv
+        env:
+          GSHEET_ID: ${{ secrets.GSHEET_ID }}
+
+      - name: Get Member Stats (Summary)
         run: |
           curl -o ./docs/_data/memberStats.csv -L "https://docs.google.com/spreadsheets/d/${GSHEET_ID}/gviz/tq?tqx=out:csv&sheet=Neighbors"
           cat ./docs/_data/memberStats.csv
