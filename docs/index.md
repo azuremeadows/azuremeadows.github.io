@@ -31,10 +31,12 @@ Helpers
 
 ## Neighborhood Stats
 
-Please note that these numbers are not real and are only provided for testing purposes. 😀
+Derby information is based on the last four weeks.
 
 - Number of Members: {{ site.data.memberStats | size }}
-- Derby League: {{ site.data.neighborhoodInfo.derby.league | capitalize }}
-- Average Points per Player: {{ site.data.neighborhoodInfo.derby.averagePointsPerPlayer }}
-- Average Completed Tasks per Player: {{ site.data.neighborhoodInfo.derby.averageCompletedTasksPerPlayer }}
-- Percentage of All Tasks Completed: {{ site.data.neighborhoodInfo.derby.percentageOfAllTasksCompleted }}
+- Derby League: {{ site.data.neighborhoodStats[0]["Derby League"] | capitalize }}
+- Average Derby Placement: {{ site.data.neighborhoodStats[0]["Average Derby Placement"] }}
+- Average Number of Derby Participants: {{ site.data.neighborhoodStats[0]["Average Number of Derby Participants"] }}
+- Average Total Derby Points: {{ site.data.neighborhoodStats[0]["Average Number of Points"] }}
+- Average Points per Player: {{ site.data.neighborhoodStats[0]["Average Points per Player"] }}
+- Percentage of All Tasks Completed: {{ site.data.neighborhoodStats[0]["Percentage of Tasks Completed"] }}
