@@ -1,11 +1,11 @@
 name: Fetch CSV Data
 on:
-  # push:
-  #   branches:
-  #     - main
-  #   paths-ignore:
-  #     - 'README.md'
-  #     - 'docs/**'
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - 'README.md'
+      - 'docs/**'
   label:
     types: [deleted]
 
