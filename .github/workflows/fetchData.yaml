@@ -30,7 +30,7 @@ jobs:
 
       - name: Get Neighborhood Stats
         run: |
-          curl -o ./docs/_data/neighborhoodStats.csv -L "https://docs.google.com/spreadsheets/d/${GSHEET_ID}/gviz/tq?tqx=out:csv&sheet=Neighbors"
+          curl -o ./docs/_data/neighborhoodStats.csv -L "https://docs.google.com/spreadsheets/d/${GSHEET_ID}/gviz/tq?tqx=out:csv&sheet=ETL-neighborhoodStats"
           cat ./docs/_data/neighborhoodStats.csv
         env:
           GSHEET_ID: ${{ secrets.GSHEET_ID }}
