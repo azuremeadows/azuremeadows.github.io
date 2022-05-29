@@ -25,14 +25,14 @@ jobs:
       
       - name: Get Derby History
         run: |
-          curl -o ./docs/_data/DerbyHistory.csv -Lsss "https://docs.google.com/spreadsheets/d/${GSHEET_ID}/gviz/tq?tqx=out:csv&sheet=Derby%20History"
+          curl -o ./docs/_data/DerbyHistory.csv -L "https://docs.google.com/spreadsheets/d/${GSHEET_ID}/gviz/tq?tqx=out:csv&sheet=Derby%20History"
           cat ./docs/_data/DerbyHistory.csv
         env:
           GSHEET_ID: ${{ secrets.GSHEET_ID }}
 
       - name: Get Neighbor Summary
         run: |
-          curl -o ./docs/_data/DerbyHistory.csv -Lsss "https://docs.google.com/spreadsheets/d/${GSHEET_ID}/gviz/tq?tqx=out:csv&sheet=Neighbors"
+          curl -o ./docs/_data/Neighbors.csv -L "https://docs.google.com/spreadsheets/d/${GSHEET_ID}/gviz/tq?tqx=out:csv&sheet=Neighbors"
           cat ./docs/_data/Neighbors.csv
         env:
           GSHEET_ID: ${{ secrets.GSHEET_ID }}
