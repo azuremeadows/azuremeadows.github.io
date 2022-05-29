@@ -3,6 +3,7 @@ title: "Azure Meadows"
 permalink: index.html
 summary: This site contains information about Azure Meadows, a Hay Day neighborhood
 nav_order: 1
+last_modified_date: {{ site.github.pushed_at }}
 ---
 
 # Welcome to Azure Meadows
@@ -40,8 +41,3 @@ Derby information is based on the last four weeks.
 - **Average Total Derby Points:** {{ site.data.neighborhoodStats[0]["Average Number of Points"] }}
 - **Average Points per Player:** {{ site.data.neighborhoodStats[0]["Average Points per Player"] }}
 - **Percentage of All Tasks Completed:** {{ site.data.neighborhoodStats[0]["Percentage of Tasks Completed"] }}%
-
-
-## Debugging
-
-{{ site.github | inspect }}
