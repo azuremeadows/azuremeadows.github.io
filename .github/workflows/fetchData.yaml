@@ -6,6 +6,8 @@ on:
     paths-ignore:
       - 'README.md'
       - 'docs/**'
+  schedule:
+    - cron: '0 23 * * MON'
 
 defaults:
   run:
