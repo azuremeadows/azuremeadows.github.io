@@ -31,4 +31,4 @@ jobs:
           jekyll_src: docs/
           gem_src: docs/
         env:
-          PAGES_REPO_NWO: ${{ GITHUB_REPOSITORY }}
+          PAGES_REPO_NWO: ${{ github.repository }}
