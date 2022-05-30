@@ -41,4 +41,4 @@ Derby information is based on the last four weeks.
 - **Average Points per Player:** {{ site.data.neighborhoodStats[0]["Average Points per Player"] }}
 - **Percentage of All Tasks Completed:** {{ site.data.neighborhoodStats[0]["Percentage of Tasks Completed"] }}%
 
-Information last updated on {{ "now" | date: "%Y-%m-%d %H:%M" }}
+Information last updated on {{ "now" | date: "%Y-%m-%d %H:%M %Z" }}

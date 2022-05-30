@@ -6,7 +6,7 @@ nav_order: 2
 
 Derby information is based on the last four weeks.  Strikes are removed after 60 days.
 
-Information last updated on {{ "now" | date: "%Y-%m-%d %H:%M" }}
+Information last updated on {{ "now" | date: "%Y-%m-%d %H:%M %Z" }} UTC
 
 <table>
   {% for row in site.data.memberStats %}

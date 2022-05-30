@@ -6,7 +6,7 @@ nav_order: 3
 
 Derby information is based on the last four weeks.
 
-Information last updated on {{ "now" | date: "%Y-%m-%d %H:%M" }}
+Information last updated on {{ "now" | date: "%Y-%m-%d %H:%M %Z" }}
 
 <table>
   {% for row in site.data.DerbyHistory %}
