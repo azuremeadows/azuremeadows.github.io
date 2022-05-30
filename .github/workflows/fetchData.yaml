@@ -37,7 +37,7 @@ jobs:
 
       - name: Get Member Stats (Summary)
         run: |
-          curl -o ./docs/_data/memberStats.csv -L "https://docs.google.com/spreadsheets/d/${GSHEET_ID}/gviz/tq?tqx=out:csv&sheet=Neighbors"
+          curl -o ./docs/_data/memberStats.csv -L "https://docs.google.com/spreadsheets/d/${GSHEET_ID}/gviz/tq?tqx=out:csv&sheet=IMPORT-Neighbors"
           cat ./docs/_data/memberStats.csv
         env:
           GSHEET_ID: ${{ secrets.GSHEET_ID }}
