@@ -4,7 +4,7 @@ parent: Neighborhood
 nav_order: 1
 ---
 
-The elders enforces the neighborhood rules by using the 3-Strike System.  Neighbors that aren't active or break a derby rule receive a strike.  These strikes expire {{ site.data.neighborhoodStats[0]["Strike Expiration Delay"] | pluralize: 'day', 'days' }} after they are issued.
+The elders enforces the neighborhood rules by using the 3-Strike System.  Neighbors that aren't active or break a derby rule receive a strike.  These strikes expire {{ site.data.neighborhoodStats[0]["Strike Expiration Delay"] }} days after they are issued.
 
 If a neighbor receives 3 strikes, they are kicked from the neighborhood.
 
