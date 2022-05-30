@@ -1,20 +1,20 @@
 name: Fetch CSV Data
 on:
-  # push:
-  #   branches:
-  #     - main
-  #   paths-ignore:
-  #     - 'README.md'
-  #     - 'docs/**'
-  label:
-    types: [deleted]
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - 'README.md'
+      - 'docs/**'
+  schedule:
+    - cron: '0 23 * * MON'
 
 defaults:
   run:
     shell: bash
 
 jobs:
-  getCsv:
+  getCsvs:
     runs-on: ubuntu-latest
 
     steps:
@@ -25,8 +25,22 @@ jobs:
       
       - name: Get Derby History
         run: |
-          wget -O ./docs/_data/DerbyHistory.csv "https://docs.google.com/spreadsheets/d/${GSHEET_ID}/gviz/tq?tqx=out:csv&sheet=Derby History"
+          curl -o ./docs/_data/DerbyHistory.csv -L "https://docs.google.com/spreadsheets/d/${GSHEET_ID}/gviz/tq?tqx=out:csv&sheet=ETL-derbyHistory"
           cat ./docs/_data/DerbyHistory.csv
+        env:
+          GSHEET_ID: ${{ secrets.GSHEET_ID }}
+
+      - name: Get Neighborhood Stats
+        run: |
+          curl -o ./docs/_data/neighborhoodStats.csv -L "https://docs.google.com/spreadsheets/d/${GSHEET_ID}/gviz/tq?tqx=out:csv&sheet=ETL-neighborhoodStats"
+          cat ./docs/_data/neighborhoodStats.csv
+        env:
+          GSHEET_ID: ${{ secrets.GSHEET_ID }}
+
+      - name: Get Member Stats (Summary)
+        run: |
+          curl -o ./docs/_data/memberStats.csv -L "https://docs.google.com/spreadsheets/d/${GSHEET_ID}/gviz/tq?tqx=out:csv&sheet=IMPORT-Neighbors"
+          cat ./docs/_data/memberStats.csv
         env:
           GSHEET_ID: ${{ secrets.GSHEET_ID }}
 
