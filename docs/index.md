@@ -31,7 +31,7 @@ Helpers
 
 ## Neighborhood Stats
 
-Derby information is based on the last four weeks.
+Derby information is based on the last four completed derbies.
 
 - **Number of Members:** {{ site.data.memberStats | size }}
 - **Derby League:** {{ site.data.neighborhoodStats[0]["Derby League"] | capitalize }}

@@ -4,7 +4,7 @@ parent: Derbies
 nav_order: 3
 ---
 
-Derby information is based on the last four weeks.
+Derby information is based on the last four completed derbies.
 
 Information last updated on {{ "now" | date: "%Y-%m-%d %H:%M %Z" }}
 

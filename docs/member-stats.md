@@ -4,7 +4,7 @@ permalink: member-stats.html
 nav_order: 2
 ---
 
-Derby information is based on the last four weeks.  Strikes are removed after 60 days.
+Derby information is based on the last four completed derbies.  Strikes are removed after 60 days.
 
 Information last updated on {{ "now" | date: "%Y-%m-%d %H:%M %Z" }} UTC
 
@@ -23,3 +23,7 @@ Information last updated on {{ "now" | date: "%Y-%m-%d %H:%M %Z" }} UTC
     {% endtablerow %}
   {% endfor %}
 </table>
+
+## Notes
+
+Join dates above may be estimations.  Members with a join date of 4/1/2022 have been members before this information was ever recorded.

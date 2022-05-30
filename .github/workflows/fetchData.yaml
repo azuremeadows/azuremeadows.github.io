@@ -23,7 +23,7 @@ jobs:
       
       - name: Get Derby History
         run: |
-          curl -o ./docs/_data/DerbyHistory.csv -L "https://docs.google.com/spreadsheets/d/${GSHEET_ID}/gviz/tq?tqx=out:csv&sheet=Derby%20History"
+          curl -o ./docs/_data/DerbyHistory.csv -L "https://docs.google.com/spreadsheets/d/${GSHEET_ID}/gviz/tq?tqx=out:csv&sheet=ETL-derbyHistory"
           cat ./docs/_data/DerbyHistory.csv
         env:
           GSHEET_ID: ${{ secrets.GSHEET_ID }}
