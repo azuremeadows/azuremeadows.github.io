@@ -4,7 +4,7 @@ permalink: member-stats.html
 nav_order: 2
 ---
 
-Derby information is based on the last four completed derbies.  Strikes are removed after {{ site.data.neighborhoodStats[0]["Strike Expiration Delay"] | pluralize: 'day', 'days' }}.
+Derby information is based on the last four completed derbies.  Strikes are removed after {{ site.data.neighborhoodStats[0]["Strike Expiration Delay"] }} days.
 
 Information last updated on {{ "now" | date: "%Y-%m-%d %H:%M %Z" }} UTC
 
