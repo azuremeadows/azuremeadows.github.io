@@ -1,7 +1,7 @@
 ---
 title: Derby Performance History
 parent: Derbies
-nav_order: 3
+nav_order: 90
 ---
 
 Derby information is based on the last four completed derbies.
