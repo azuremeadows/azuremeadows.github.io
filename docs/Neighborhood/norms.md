@@ -15,6 +15,11 @@ Below is a list of team norms that describe the overall feel and behavior of the
 - Derby is for rewards, not for ladder climbers:  We've been in the Champions League for some time now.  We strive to finish in the top 3, but we aren't in it to climb the leaderboard.  While we are dedicated to the derby, we're not going to push ourselves to climb higher and higher up the ranks.
 - Playing the game is required:  We perform activity checks regularly.  Inactive players may get kicked from the neighborhood if they are inactive for too long.  If you are travelling or you just need a break, let us know and we'll hold your spot.  If you stop playing the game completely, let us know.
 
+New norm
+{: .label .label-yellow }
+
+Starting 6/21/2022, all neighborhood members must participate in at a derby at least once every two months.
+
 # Activity Checks
 
 From time to time, neighborhood elders will check all neighbors to ensure they are still active in the game.  This is done by going to each farm and making sure that there is some level of farm activity present on the farm.  This check, however, can be biased as they are performed by people who are awake during daylight hours of the Eastern Time Zone (UTC-5).  Here are examples of things we check:
@@ -23,5 +28,6 @@ From time to time, neighborhood elders will check all neighbors to ensure they a
 - Crops, trees, and bushes in growing phase, NOT harvest phase
 - Production Machines running
 
-An inactive farm will receive a strike.
+Farms that are suspected of being inactive will be notified via Discord and the in-game elder chat channel.  Players then have one week to notify the elders that they are still playing the game.  Players who fail to do so will receive a strike.
 
+If a farm receives two inactivity strikes in a row, they may get kicked from the neighborhood out of concern that they are no longer playing the game.
