@@ -12,7 +12,7 @@ defaults:
     shell: bash
 
 jobs:
-  build:
+  build-dev:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -37,5 +37,6 @@ jobs:
           target_path: /dev-${{ github.ref_name }}
           jekyll_src: docs/
           gem_src: docs/
+          keep_history: true
         env:
           PAGES_REPO_NWO: ${{ github.repository }}

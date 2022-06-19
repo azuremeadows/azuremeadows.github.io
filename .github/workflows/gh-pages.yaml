@@ -13,6 +13,10 @@ defaults:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      deployments: write
+      pages: write
 
     steps:
       - name: Check out the repo
@@ -32,5 +36,6 @@ jobs:
           target_path: /
           jekyll_src: docs/
           gem_src: docs/
+          keep_history: true
         env:
           PAGES_REPO_NWO: ${{ github.repository }}
