@@ -14,6 +14,10 @@ defaults:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      content: write
+      deployments: write
+      pages: write
 
     steps:
       - name: Check out the repo
@@ -27,10 +31,6 @@ jobs:
             ${{ runner.os }}-gems-
 
       - uses: helaili/jekyll-action@v2       # Choose any one of the Jekyll Actions
-        permissions:
-          content: write
-          deployments: write
-          pages: write
         with:                                # Some relative inputs of your action
           token: ${{ secrets.GITHUB_TOKEN }}
           target_branch: gh-pages
