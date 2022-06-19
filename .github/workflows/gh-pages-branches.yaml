@@ -5,6 +5,7 @@ on:
       - main
     paths:
       - 'docs/**' 
+      - 'garbage.txt'
 
 defaults:
   run:
