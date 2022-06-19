@@ -1,17 +1,18 @@
-name: Build and Deploy gh-pages
+name: Build and Deploy gh-pages for branches
 on:
   push:
-    branches:
+    branches-ignore:
       - main
     paths:
       - 'docs/**' 
+      - 'garbage.txt'
 
 defaults:
   run:
     shell: bash
 
 jobs:
-  build:
+  build-dev:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -33,7 +34,7 @@ jobs:
         with:                                # Some relative inputs of your action
           token: ${{ secrets.GITHUB_TOKEN }}
           target_branch: gh-pages
-          target_path: /
+          target_path: dev-${{ github.ref_name }}
           jekyll_src: docs/
           gem_src: docs/
           keep_history: true
