@@ -29,7 +29,7 @@ jobs:
         with:                                # Some relative inputs of your action
           token: ${{ secrets.GITHUB_TOKEN }}
           target_branch: gh-pages
-          target_path: dev-${{ github.ref }}
+          target_path: dev-${{ env.GITHUB_REF_NAME }}
           jekyll_src: docs/
           gem_src: docs/
         env:
