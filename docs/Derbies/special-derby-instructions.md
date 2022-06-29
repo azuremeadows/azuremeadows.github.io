@@ -2,7 +2,7 @@
 title: Special Derby Instructions
 parent: Derbies
 nav_order: 3
-published: true
+published: false
 permalink: Derbies/special.html
 
 derby_start_date: June 14, 2022
