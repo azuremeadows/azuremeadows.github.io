@@ -2,133 +2,133 @@
     "doc": "Activity Spreadsheet",
     "title": "Overview",
     "content": "The spreadsheet has a lot of spreadsheets but don’t worry: you’ll only be messing with 3 of these at the most. | Activity Tracker: Tracks farm activity as a way to test if a player is still active | Derby Participation: Tracks participation for players who opt into the derby | Neighbors: Tracks players in the neighborhood | . ",
-    "url": "https://github.com/pages/azuremeadows/elderInfo/activity-spreadsheet.html#overview",
+    "url": "/pages/azuremeadows/elderInfo/activity-spreadsheet.html#overview",
     "relUrl": "/elderInfo/activity-spreadsheet.html#overview"
   },"1": {
     "doc": "Activity Spreadsheet",
     "title": "Activity Tracker",
     "content": "The Activity Tracker is a flat spreadsheet that has a listing of members that were in the neighborhood at the time that activity was recorded. There are 5 columns: . | Date | Neighbor | Activity Type | Points (This value is not used at this time) | Notes | . Generally speaking, activities that can be completed quickly are worth higher points because it means that the player has played the game in the last hour or so. For example, growing anything that matures within an hour is worth 60 points with full derby participation is worth 100 points. Completing an Activity Check . | Record the date that you are performing the check in Column A. | For Columns B and C, you should notice that there is a dropdown available. It’s much easier to go through the neighborhood member listing than it is to copy and paste from the spreadsheet. That’s because it’s often easier to go in order up and down the list than it is to hunt and peck. As a result, in the game, click on the neighborhood house and record each member’s name from top to bottom. | Now the hard part: Check each neighbor for activity. Click on each neighbor and try to find the highest-point activity. Start by giving each member who has participated in the last derby with a participation check. After that, remember that crops must be in the process of growing (not fully mature), livestock should be walking around (not ready to be gathered), etc. | Repeat the process for each member, only marking their farm as inactive if you cannot find any sign of activity. Some common long-term activities to check: Jam Maker and Smelters are often working for players that may be sleeping overnight. | Once you are complete, record members who you marked as “inactive” and report it in the “Activity Tracking” discord channel. | . ",
-    "url": "https://github.com/pages/azuremeadows/elderInfo/activity-spreadsheet.html#activity-tracker",
+    "url": "/pages/azuremeadows/elderInfo/activity-spreadsheet.html#activity-tracker",
     "relUrl": "/elderInfo/activity-spreadsheet.html#activity-tracker"
   },"2": {
     "doc": "Activity Spreadsheet",
     "title": "Derby Participation",
     "content": "Derby Participation, much like the Activity Check, is a flat table with 8 columns. Some of the fields will be filled by formulas. | Date | Derby Type: Auto-populated by formula | Neighbor | Tasks Completed | Tasks Assigned | Points | Extra Task Taken | Points per Task: Auto-populated by formula | . Recording Derby Participation . It is important to enter the Derby Participation information before 2300 UTC Mondays as the website pulls the information from the spreadsheet at that time. | Record the date that the derby began. The date should always be a TUESDAY. | Skip column B for now. | For Column C, you should notice that there is a dropdown available. It’s much easier to go through the derby score board and type each participant in their own row for this column. | For each derby participant, record how many tasks they completed into Column D, how many tasks they were assigned into Column E, the number of points scored into Column F, and if they took an extra task into Column G. | Column H is a formula that you can drag from the previous row down to the rest of the rows. To do so, click on the row above the blank one and use your computer’s “Copy” function. For Mac, this is ⌘-C; for Windows, this is Ctrl-C. Then use your computer’s paste function for all of the rows that are blank for each player in the current derby. | Depending on the derby, any members with an average points per task less than 320.0 should receive a strike. | . | . For Column B, you’ll need to enter the Derby type in Derby History. Click on this spreadsheet and you’ll a table with 9 columns. Many of these columns are auto-populated by formula. You only need to worry about three columns: . | Starting Date | Type | Place | . If there is a row for the current derby date, edit the columns as necessary. If there isn’t, add the starting date of the derby into Column A, the type of derby in Column B, and what place the neighborhood got in Column D. All other columns are completed by formulas so you may copy the cell information from other populated rows down the sheet. The derby type is a Drop Down to prevent bad data entry. If you need to add a new Derby Type, you can do so in Column F of the VLOOKUP spreadsheet. This spreadsheet is very complex and it is recommended that you only do this if you are comfortable doing so. Once the Derby History has been entered, return to the Derby Participation spreadsheet and copy the formula from another row’s Column B down all the blank rows for the current Derby. ",
-    "url": "https://github.com/pages/azuremeadows/elderInfo/activity-spreadsheet.html#derby-participation",
+    "url": "/pages/azuremeadows/elderInfo/activity-spreadsheet.html#derby-participation",
     "relUrl": "/elderInfo/activity-spreadsheet.html#derby-participation"
   },"3": {
     "doc": "Activity Spreadsheet",
     "title": "Activity Spreadsheet",
     "content": "Members who are elders, co-leaders, or a leader, have access to the spreadsheet that records activity for the neighbhorhood. It provides a lot of the data that this site relies upon and makes it easy for everyone to understand where their place is. This spreadsheet is relatively easy, especially if you have Google Sheets (or Excel) experience. Most of the complexity has been made in other spreadsheets where non-experienced people won’t mess anything up. The link to the Activity Spreadsheet has been pinned in the Discord channel. ",
-    "url": "https://github.com/pages/azuremeadows/elderInfo/activity-spreadsheet.html",
+    "url": "/pages/azuremeadows/elderInfo/activity-spreadsheet.html",
     "relUrl": "/elderInfo/activity-spreadsheet.html"
   },"4": {
     "doc": "Derby Performance History",
     "title": "Derby Performance History",
-    "content": "Derby information is based on the last four completed derbies. Information last updated on 2022-08-08 23:14 UTC . | Starting Date | Type | Participants | Place | Total Points | Average Points per Player | Tasks Completed | Tasks Assigned | Average Points per Task | . | 7/12/2022 | Normal | 18 | 3 | 54720 | 3040.0 | 171 | 171 | 320.0 | . | 7/19/2022 | Power | 17 | 1 | 99840 | 5872.9 | 312 | 312 | 320.0 | . | 7/26/2022 | Bunny | 13 | 4 | 39964 | 3074.2 | 125 | 125 | 319.7 | . | 8/2/2022 | Normal | 14 | 1 | 41600 | 2971.4 | 130 | 131 | 320.0 | . ",
-    "url": "https://github.com/pages/azuremeadows/Derbies/history.html",
+    "content": "Derby information is based on the last four completed derbies. Information last updated on 2022-08-15 23:13 UTC . | Starting Date | Type | Participants | Place | Total Points | Average Points per Player | Tasks Completed | Tasks Assigned | Average Points per Task | . | 7/19/2022 | Power | 17 | 1 | 99840 | 5872.9 | 312 | 312 | 320.0 | . | 7/26/2022 | Bunny | 13 | 4 | 39964 | 3074.2 | 125 | 125 | 319.7 | . | 8/2/2022 | Normal | 14 | 1 | 41600 | 2971.4 | 130 | 131 | 320.0 | . | 8/9/2022 | Normal | 20 | 2 | 60800 | 3040.0 | 190 | 191 | 320.0 | . ",
+    "url": "/pages/azuremeadows/Derbies/history.html",
     "relUrl": "/Derbies/history.html"
   },"5": {
     "doc": "Elder Info",
     "title": "Elder Info",
     "content": " ",
-    "url": "https://github.com/pages/azuremeadows/elderInfo/",
+    "url": "/pages/azuremeadows/elderInfo/",
     "relUrl": "/elderInfo/"
   },"6": {
     "doc": "Derbies",
     "title": "Derbies",
     "content": " ",
-    "url": "https://github.com/pages/azuremeadows/Derbies/",
+    "url": "/pages/azuremeadows/Derbies/",
     "relUrl": "/Derbies/"
   },"7": {
     "doc": "Azure Meadows",
     "title": "Welcome to Azure Meadows",
     "content": "Azure Meadows is a Hay Day Neighborhood (aka Guild, Clan, Alliance, Team, etc.). This website has all of the rules and team norms for the neighborhood. ",
-    "url": "https://github.com/pages/azuremeadows/index.html#welcome-to-azure-meadows",
+    "url": "/pages/azuremeadows/index.html#welcome-to-azure-meadows",
     "relUrl": "/index.html#welcome-to-azure-meadows"
   },"8": {
     "doc": "Azure Meadows",
     "title": "Neighborhood Tags",
     "content": "Fun . Active . Derby Focus . Derby: 320 Only . Helpers . ",
-    "url": "https://github.com/pages/azuremeadows/index.html#neighborhood-tags",
+    "url": "/pages/azuremeadows/index.html#neighborhood-tags",
     "relUrl": "/index.html#neighborhood-tags"
   },"9": {
     "doc": "Azure Meadows",
     "title": "Neighborhood Stats",
-    "content": "Derby information is based on the last four completed derbies. | Number of Members: 30 | Derby League: Champion | Average Derby Placement: 3.1 | Average Number of Derby Participants: 14.9 | Average Total Derby Points: 53336.8 | Average Points per Player: 3524.2 | Percentage of All Tasks Completed: 97% | . Information last updated on 2022-08-08 23:14 UTC . ",
-    "url": "https://github.com/pages/azuremeadows/index.html#neighborhood-stats",
+    "content": "Derby information is based on the last four completed derbies. | Number of Members: 29 | Derby League: Champion | Average Derby Placement: 3 | Average Number of Derby Participants: 15.3 | Average Total Derby Points: 53803.3 | Average Points per Player: 3493.9 | Percentage of All Tasks Completed: 97.1% | . Information last updated on 2022-08-15 23:13 UTC . ",
+    "url": "/pages/azuremeadows/index.html#neighborhood-stats",
     "relUrl": "/index.html#neighborhood-stats"
   },"10": {
     "doc": "Azure Meadows",
     "title": "Azure Meadows",
     "content": " ",
-    "url": "https://github.com/pages/azuremeadows/index.html",
+    "url": "/pages/azuremeadows/index.html",
     "relUrl": "/index.html"
   },"11": {
     "doc": "Neighborhood",
     "title": "Neighborhood",
     "content": " ",
-    "url": "https://github.com/pages/azuremeadows/Neighborhood/",
+    "url": "/pages/azuremeadows/Neighborhood/",
     "relUrl": "/Neighborhood/"
   },"12": {
     "doc": "Member Stats",
     "title": "Notes",
     "content": "Join dates above may be estimations. Members with a join date of 4/1/2022 have been members before this information was ever recorded. ",
-    "url": "https://github.com/pages/azuremeadows/member-stats.html#notes",
+    "url": "/pages/azuremeadows/member-stats.html#notes",
     "relUrl": "/member-stats.html#notes"
   },"13": {
     "doc": "Member Stats",
     "title": "Member Stats",
-    "content": "Derby information is based on the last four completed derbies. Strikes are removed after 60 days. Information last updated on 2022-08-08 23:14 UTC UTC . | Neighbor | Role | Joined Neighborhood | Strikes | Next Strike Expiration | Number of Derbies | Last Derby | Average Number of Points | . | Lucky | Member | 4/1/2022 | 1 | 8/12/2022 | 0 | 12/30/1899 | | . | Rylan | Co-Leader | 4/1/2022 | 1 | 8/19/2022 | 9 | 8/2/2022 | 3584.4 | . | Kemzow | Leader | 4/1/2022 | 0 | - | 15 | 8/2/2022 | 3712.8 | . | Dovile | Member | 4/1/2022 | 0 | - | 14 | 7/26/2022 | 3492.9 | . | Nostradavemus | Member | 4/1/2022 | 0 | - | 15 | 8/2/2022 | 3651.7 | . | Macelleria da Ross | Member | 4/1/2022 | 0 | - | 0 | 12/30/1899 | | . | Ebony | Member | 4/1/2022 | 1 | 9/2/2022 | 8 | 6/28/2022 | 3180.6 | . | Dakind Grinds | Elder | 4/1/2022 | 0 | - | 9 | 7/19/2022 | 4036.1 | . | Skye | Elder | 4/1/2022 | 0 | - | 14 | 8/2/2022 | 3805.6 | . | Herregarden | Member | 4/1/2022 | 0 | - | 14 | 8/2/2022 | 3640.7 | . | Cymon | Elder | 4/1/2022 | 0 | - | 3 | 8/2/2022 | 4160 | . | Stardew | Co-Leader | 4/1/2022 | 1 | 10/7/2022 | 12 | 8/2/2022 | 3540.7 | . | Wheaton | Co-Leader | 4/1/2022 | 0 | - | 12 | 7/26/2022 | 3806 | . | Wisteria | Elder | 4/1/2022 | 0 | - | 10 | 7/19/2022 | 3416.7 | . | Em | Member | 4/1/2022 | 0 | - | 12 | 8/2/2022 | 3651 | . | Ram Ranch | Member | 4/1/2022 | 0 | - | 2 | 5/3/2022 | 2895 | . | Christopher | Member | 4/1/2022 | 1 | 8/12/2022 | 0 | 12/30/1899 | | . | FarmVille | Member | 4/1/2022 | 0 | - | 14 | 8/2/2022 | 3470.7 | . | Lisa | Elder | 4/1/2022 | 0 | - | 11 | 8/2/2022 | 3349.3 | . | Bethlehem | Member | 4/1/2022 | 0 | - | 8 | 7/19/2022 | 3126.9 | . | Ray | Member | 4/1/2022 | 0 | - | 1 | 6/21/2022 | 5675 | . | Couchpotatoe918 | Elder | 5/9/2022 | 0 | - | 12 | 8/2/2022 | 3674.6 | . | Naomi | Member | 6/28/2022 | 0 | - | 4 | 8/2/2022 | 2882.5 | . | K Wheat and See -Quackvl | Member | 7/4/2022 | 0 | - | 5 | 8/2/2022 | 3745 | . | Sao Joaquim | Member | 7/9/2022 | 0 | - | 4 | 8/2/2022 | 3680 | . | sparkle up | Member | 8/3/2022 | 0 | - | 0 | 12/30/1899 | | . | Johanneslund | Member | 8/6/2022 | 0 | - | 0 | 12/30/1899 | | . | Baker | Member | 8/7/2022 | 0 | - | 0 | 12/30/1899 | | . | Bennetts | Member | 8/8/2022 | 0 | - | 0 | 12/30/1899 | | . | Asterin | Member | 8/8/2022 | 0 | - | 0 | 12/30/1899 | | . ",
-    "url": "https://github.com/pages/azuremeadows/member-stats.html",
+    "content": "Derby information is based on the last four completed derbies. Strikes are removed after 60 days. Information last updated on 2022-08-15 23:13 UTC UTC . | Neighbor | Role | Joined Neighborhood | Strikes | Next Strike Expiration | Number of Derbies | Last Derby | Average Number of Points | . | Rylan | Co-Leader | 4/1/2022 | 1 | 8/19/2022 | 10 | 8/9/2022 | 3514 | . | Kemzow | Leader | 4/1/2022 | 0 | - | 16 | 8/9/2022 | 3680.8 | . | Dovile | Member | 4/1/2022 | 0 | - | 14 | 7/26/2022 | 3492.9 | . | Nostradavemus | Member | 4/1/2022 | 0 | - | 16 | 8/9/2022 | 3623.4 | . | Ebony | Member | 4/1/2022 | 1 | 9/2/2022 | 8 | 6/28/2022 | 3180.6 | . | Dakind Grinds | Elder | 4/1/2022 | 0 | - | 10 | 8/9/2022 | 3952.5 | . | Skye | Elder | 4/1/2022 | 0 | - | 15 | 8/9/2022 | 3765.3 | . | Herregarden | Member | 4/1/2022 | 0 | - | 15 | 8/9/2022 | 3611.3 | . | Cymon | Elder | 4/1/2022 | 0 | - | 3 | 8/2/2022 | 4160 | . | Stardew | Co-Leader | 4/1/2022 | 1 | 10/7/2022 | 13 | 8/9/2022 | 3514.5 | . | Wheaton | Co-Leader | 4/1/2022 | 0 | - | 12 | 7/26/2022 | 3806 | . | Wisteria | Elder | 4/1/2022 | 0 | - | 10 | 7/19/2022 | 3416.7 | . | Em | Member | 4/1/2022 | 0 | - | 13 | 8/9/2022 | 3591.7 | . | Christopher | Member | 4/1/2022 | 1 | 10/8/2022 | 0 | 12/30/1899 | | . | FarmVille | Member | 4/1/2022 | 0 | - | 14 | 8/2/2022 | 3470.7 | . | Lisa | Elder | 4/1/2022 | 0 | - | 12 | 8/9/2022 | 3336.8 | . | Bethlehem | Member | 4/1/2022 | 0 | - | 9 | 8/9/2022 | 3099.4 | . | Ray | Member | 4/1/2022 | 0 | - | 2 | 8/9/2022 | 4277.5 | . | Couchpotatoe918 | Elder | 5/9/2022 | 0 | - | 13 | 8/9/2022 | 3613.5 | . | Naomi | Member | 6/28/2022 | 0 | - | 5 | 8/9/2022 | 2882 | . | K Wheat and See -Quackvl | Member | 7/4/2022 | 0 | - | 6 | 8/9/2022 | 3654.2 | . | Sao Joaquim | Member | 7/9/2022 | 0 | - | 5 | 8/9/2022 | 3584 | . | sparkle up | Member | 8/3/2022 | 0 | - | 0 | 12/30/1899 | | . | Johanneslund | Member | 8/6/2022 | 0 | - | 1 | 8/9/2022 | 2880 | . | Baker | Member | 8/7/2022 | 0 | - | 0 | 12/30/1899 | | . | Bennetts | Member | 8/8/2022 | 0 | - | 0 | 12/30/1899 | | . | Asterin | Member | 8/8/2022 | 0 | - | 0 | 12/30/1899 | | . | Willet | Member | 8/11/2022 | 0 | - | 0 | 12/30/1899 | | . | Sagar's Corner | Member | 8/15/2022 | 0 | - | 0 | 12/30/1899 | | . ",
+    "url": "/pages/azuremeadows/member-stats.html",
     "relUrl": "/member-stats.html"
   },"14": {
     "doc": "Neighborhood Norms",
     "title": "Activity Checks",
     "content": "From time to time, neighborhood elders will check all neighbors to ensure they are still active in the game. This is done by going to each farm and making sure that there is some level of farm activity present on the farm. This check, however, can be biased as they are performed by people who are awake during daylight hours of the Eastern Time Zone (UTC-5). Here are examples of things we check: . | Actively participating in the derby | Crops, trees, and bushes in growing phase, NOT harvest phase | Production Machines running | . Farms that are suspected of being inactive will be notified via Discord and the in-game elder chat channel. Players then have one week to notify the elders that they are still playing the game. Players who fail to do so will receive a strike. If a farm receives two inactivity strikes in a row, they may get kicked from the neighborhood out of concern that they are no longer playing the game. ",
-    "url": "https://github.com/pages/azuremeadows/Neighborhood/norms.html#activity-checks",
+    "url": "/pages/azuremeadows/Neighborhood/norms.html#activity-checks",
     "relUrl": "/Neighborhood/norms.html#activity-checks"
   },"15": {
     "doc": "Neighborhood Norms",
     "title": "Neighborhood Norms",
     "content": "We are a chatty neighborhood, spending most of our time in our Discord server. Once you join our neighborhood, you will be given an invite to the server where you will be asked to set your server nickname to your farm name. If you need help, just ask an elder. While joining the Discord server is completely optional, it’s highly recommended as it is often the best way to strategize, get farm help, as well as chat about your hatrid of triple harvest events. Below is a list of team norms that describe the overall feel and behavior of the neighborhood. They aren’t hard and fast rules but should give you an idea of what we expect from potential recruits as well as from existing neighbors. | Communication is key: If you need to take time off from the game or if you’re having trouble completing a derby task, ASK. Staying silent for the entire week only to come alive in the last 6 hours of a derby won’t help you and it won’t help us. Let us know you need help or if you can’t play due to something going on in your life. Real Life is more important than a game but we can’t read your mind. | Derby Participation is required at least once every two months: We don’t expect everyone to participate in every derby. But if you do, please read the Derby Rules before opting in. The elders perform a Full Opt-Out every Monday so you must opt in each derby. | Derby is for rewards, not for ladder climbers: We’ve been in the Champions League for some time now. We strive to finish in the top 3, but we aren’t in it to climb the leaderboard. While we are dedicated to the derby, we’re not going to push ourselves to climb higher and higher up the ranks. | Playing the game is required: We perform activity checks regularly. Inactive players may get kicked from the neighborhood if they are inactive for too long. If you are traveling or you just need a break, let us know and we’ll hold your spot. If you stop playing the game completely, let us know. | . New norm . Starting 6/21/2022, all neighborhood members must participate in at a derby at least once every two months. ",
-    "url": "https://github.com/pages/azuremeadows/Neighborhood/norms.html",
+    "url": "/pages/azuremeadows/Neighborhood/norms.html",
     "relUrl": "/Neighborhood/norms.html"
   },"16": {
     "doc": "Derby Rules",
     "title": "General Rules",
     "content": ". | All participating members must complete all tasks. If a member fails to complete a task, they can make it up by either using their “Reactivate Derby Task” Farm Pass perk or by buying an extra task. | Participants are expected to take 320-point tasks, or their highest point equivalent. Some derbies (such as the Blossom Derby) have tasks that are higher while others have lower point tasks. If you accidently take a task under 320 points, please let us know in our Discord server or in game chat. We know that mistakes happen, but we don’t expect it to be the norm. If the elders notice you taking multiple tasks under 320-points in one derby or taking one task under 320-points two derbies in a row, it will be counted against you. | . ",
-    "url": "https://github.com/pages/azuremeadows/Derbies/rules.html#general-rules",
+    "url": "/pages/azuremeadows/Derbies/rules.html#general-rules",
     "relUrl": "/Derbies/rules.html#general-rules"
   },"17": {
     "doc": "Derby Rules",
     "title": "Derby Rules",
     "content": "Since each derby type has it’s own set of quirks, these rules are applied generally. ",
-    "url": "https://github.com/pages/azuremeadows/Derbies/rules.html",
+    "url": "/pages/azuremeadows/Derbies/rules.html",
     "relUrl": "/Derbies/rules.html"
   },"18": {
     "doc": "Strike System",
     "title": "Strike System",
     "content": "The elders enforces the neighborhood rules by using the 3-Strike System. Neighbors that aren’t active or break a derby rule receive a strike. These strikes expire 60 days after they are issued. If a neighbor receives 3 strikes, they are kicked from the neighborhood. The elders reserve the right to kick neighbors for very clear violations or as a way to maintain order due to gross transgressions. ",
-    "url": "https://github.com/pages/azuremeadows/Neighborhood/strike-system.html",
+    "url": "/pages/azuremeadows/Neighborhood/strike-system.html",
     "relUrl": "/Neighborhood/strike-system.html"
   },"19": {
     "doc": "Derby Trash List",
     "title": "Town Tasks",
     "content": "Generally speaking, tasks associated with The Town are kept. In previous derbies, individual town visitor tasks (e.g. Dancer, Strongman, Teacher, etc.) were trashed. However, as more participants start opening up the Town, they have been left open. Instead, these tasks are often trashed if tasks stay up for more than a day. ",
-    "url": "https://github.com/pages/azuremeadows/Derbies/task-trash-list.html#town-tasks",
+    "url": "/pages/azuremeadows/Derbies/task-trash-list.html#town-tasks",
     "relUrl": "/Derbies/task-trash-list.html#town-tasks"
   },"20": {
     "doc": "Derby Trash List",
     "title": "Task Requests",
     "content": "If you’d like a task that is normally trashed, please let us know on the Discord server (perferred) or in-game chat. We will try our best to not trash it but please keep in mind that mistakes happen. ",
-    "url": "https://github.com/pages/azuremeadows/Derbies/task-trash-list.html#task-requests",
+    "url": "/pages/azuremeadows/Derbies/task-trash-list.html#task-requests",
     "relUrl": "/Derbies/task-trash-list.html#task-requests"
   },"21": {
     "doc": "Derby Trash List",
     "title": "Derby Trash List",
     "content": "Since each derby type has it’s own set of quirks, this page lists tasks that are trashed. | Any task that is less than 320 points | “Picnic Basket” tasks where more than one activity must be performed | Fishing Tasks | Wool Collection and related tasks (e.g. Sweater, Wooly Hat, etc.) | Tasks where you must be Level 31 or higher (Please refer to the Goods List to review which items these may be) . | Goat Milk collection tasks | . | . To keep the board diverse with different tasks, we’ll limit the following to just one task on the board: . | Boat Tasks | Truck Delivery Tasks | . Some derbies require us to coordinate our actions so be sure to look out for that. The Elders are often mindful of game events and adjust tasks accordingly. If you’d like a task that is normally trashed, please let us know. ",
-    "url": "https://github.com/pages/azuremeadows/Derbies/task-trash-list.html",
+    "url": "/pages/azuremeadows/Derbies/task-trash-list.html",
     "relUrl": "/Derbies/task-trash-list.html"
   }
 }
