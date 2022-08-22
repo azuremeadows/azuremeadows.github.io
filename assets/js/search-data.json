@@ -25,15 +25,15 @@
   },"4": {
     "doc": "Derby Performance History",
     "title": "Derby Performance History",
-    "content": "Derby information is based on the last four completed derbies. Information last updated on 2022-08-15 23:13 UTC . | Starting Date | Type | Participants | Place | Total Points | Average Points per Player | Tasks Completed | Tasks Assigned | Average Points per Task | . | 7/19/2022 | Power | 17 | 1 | 99840 | 5872.9 | 312 | 312 | 320.0 | . | 7/26/2022 | Bunny | 13 | 4 | 39964 | 3074.2 | 125 | 125 | 319.7 | . | 8/2/2022 | Normal | 14 | 1 | 41600 | 2971.4 | 130 | 131 | 320.0 | . | 8/9/2022 | Normal | 20 | 2 | 60800 | 3040.0 | 190 | 191 | 320.0 | . ",
+    "content": "Derby information is based on the last four completed derbies. Information last updated on 2022-08-22 23:12 UTC . | Starting Date | Type | Participants | Place | Total Points | Average Points per Player | Tasks Completed | Tasks Assigned | Average Points per Task | . | 7/26/2022 | Bunny | 13 | 4 | 39964 | 3074.2 | 125 | 125 | 319.7 | . | 8/2/2022 | Normal | 14 | 1 | 41600 | 2971.4 | 130 | 131 | 320.0 | . | 8/9/2022 | Normal | 20 | 2 | 60800 | 3040.0 | 190 | 191 | 320.0 | . | 8/16/2022 | Power | 17 | 4 | 94248 | 5544.0 | 295 | 309 | 319.5 | . ",
     "url": "/pages/azuremeadows/Derbies/history.html",
     "relUrl": "/Derbies/history.html"
   },"5": {
-    "doc": "Elder Info",
-    "title": "Elder Info",
+    "doc": "Neighborhood",
+    "title": "Neighborhood",
     "content": " ",
-    "url": "/pages/azuremeadows/elderInfo/",
-    "relUrl": "/elderInfo/"
+    "url": "/pages/azuremeadows/Neighborhood/",
+    "relUrl": "/Neighborhood/"
   },"6": {
     "doc": "Derbies",
     "title": "Derbies",
@@ -55,7 +55,7 @@
   },"9": {
     "doc": "Azure Meadows",
     "title": "Neighborhood Stats",
-    "content": "Derby information is based on the last four completed derbies. | Number of Members: 29 | Derby League: Champion | Average Derby Placement: 3 | Average Number of Derby Participants: 15.3 | Average Total Derby Points: 53803.3 | Average Points per Player: 3493.9 | Percentage of All Tasks Completed: 97.1% | . Information last updated on 2022-08-15 23:13 UTC . ",
+    "content": "Derby information is based on the last four completed derbies. | Number of Members: 29 | Derby League: Champion | Average Derby Placement: 3.1 | Average Number of Derby Participants: 15.4 | Average Total Derby Points: 56182.4 | Average Points per Player: 3614.5 | Percentage of All Tasks Completed: 97% | . Information last updated on 2022-08-22 23:12 UTC . ",
     "url": "/pages/azuremeadows/index.html#neighborhood-stats",
     "relUrl": "/index.html#neighborhood-stats"
   },"10": {
@@ -65,11 +65,11 @@
     "url": "/pages/azuremeadows/index.html",
     "relUrl": "/index.html"
   },"11": {
-    "doc": "Neighborhood",
-    "title": "Neighborhood",
+    "doc": "Elder Info",
+    "title": "Elder Info",
     "content": " ",
-    "url": "/pages/azuremeadows/Neighborhood/",
-    "relUrl": "/Neighborhood/"
+    "url": "/pages/azuremeadows/elderInfo/",
+    "relUrl": "/elderInfo/"
   },"12": {
     "doc": "Member Stats",
     "title": "Notes",
@@ -79,7 +79,7 @@
   },"13": {
     "doc": "Member Stats",
     "title": "Member Stats",
-    "content": "Derby information is based on the last four completed derbies. Strikes are removed after 60 days. Information last updated on 2022-08-15 23:13 UTC UTC . | Neighbor | Role | Joined Neighborhood | Strikes | Next Strike Expiration | Number of Derbies | Last Derby | Average Number of Points | . | Rylan | Co-Leader | 4/1/2022 | 1 | 8/19/2022 | 10 | 8/9/2022 | 3514 | . | Kemzow | Leader | 4/1/2022 | 0 | - | 16 | 8/9/2022 | 3680.8 | . | Dovile | Member | 4/1/2022 | 0 | - | 14 | 7/26/2022 | 3492.9 | . | Nostradavemus | Member | 4/1/2022 | 0 | - | 16 | 8/9/2022 | 3623.4 | . | Ebony | Member | 4/1/2022 | 1 | 9/2/2022 | 8 | 6/28/2022 | 3180.6 | . | Dakind Grinds | Elder | 4/1/2022 | 0 | - | 10 | 8/9/2022 | 3952.5 | . | Skye | Elder | 4/1/2022 | 0 | - | 15 | 8/9/2022 | 3765.3 | . | Herregarden | Member | 4/1/2022 | 0 | - | 15 | 8/9/2022 | 3611.3 | . | Cymon | Elder | 4/1/2022 | 0 | - | 3 | 8/2/2022 | 4160 | . | Stardew | Co-Leader | 4/1/2022 | 1 | 10/7/2022 | 13 | 8/9/2022 | 3514.5 | . | Wheaton | Co-Leader | 4/1/2022 | 0 | - | 12 | 7/26/2022 | 3806 | . | Wisteria | Elder | 4/1/2022 | 0 | - | 10 | 7/19/2022 | 3416.7 | . | Em | Member | 4/1/2022 | 0 | - | 13 | 8/9/2022 | 3591.7 | . | Christopher | Member | 4/1/2022 | 1 | 10/8/2022 | 0 | 12/30/1899 | | . | FarmVille | Member | 4/1/2022 | 0 | - | 14 | 8/2/2022 | 3470.7 | . | Lisa | Elder | 4/1/2022 | 0 | - | 12 | 8/9/2022 | 3336.8 | . | Bethlehem | Member | 4/1/2022 | 0 | - | 9 | 8/9/2022 | 3099.4 | . | Ray | Member | 4/1/2022 | 0 | - | 2 | 8/9/2022 | 4277.5 | . | Couchpotatoe918 | Elder | 5/9/2022 | 0 | - | 13 | 8/9/2022 | 3613.5 | . | Naomi | Member | 6/28/2022 | 0 | - | 5 | 8/9/2022 | 2882 | . | K Wheat and See -Quackvl | Member | 7/4/2022 | 0 | - | 6 | 8/9/2022 | 3654.2 | . | Sao Joaquim | Member | 7/9/2022 | 0 | - | 5 | 8/9/2022 | 3584 | . | sparkle up | Member | 8/3/2022 | 0 | - | 0 | 12/30/1899 | | . | Johanneslund | Member | 8/6/2022 | 0 | - | 1 | 8/9/2022 | 2880 | . | Baker | Member | 8/7/2022 | 0 | - | 0 | 12/30/1899 | | . | Bennetts | Member | 8/8/2022 | 0 | - | 0 | 12/30/1899 | | . | Asterin | Member | 8/8/2022 | 0 | - | 0 | 12/30/1899 | | . | Willet | Member | 8/11/2022 | 0 | - | 0 | 12/30/1899 | | . | Sagar's Corner | Member | 8/15/2022 | 0 | - | 0 | 12/30/1899 | | . ",
+    "content": "Derby information is based on the last four completed derbies. Strikes are removed after 60 days. Information last updated on 2022-08-22 23:12 UTC UTC . | Neighbor | Role | Joined Neighborhood | Strikes | Next Strike Expiration | Number of Derbies | Last Derby | Average Number of Points | . | Rylan | Co-Leader | 4/1/2022 | 0 | - | 11 | 8/16/2022 | 3747.3 | . | Kemzow | Leader | 4/1/2022 | 0 | - | 17 | 8/16/2022 | 3803.1 | . | Dovile | Member | 4/1/2022 | 0 | - | 14 | 7/26/2022 | 3492.9 | . | Nostradavemus | Member | 4/1/2022 | 0 | - | 17 | 8/16/2022 | 3749.1 | . | Ebony | Member | 4/1/2022 | 1 | 9/2/2022 | 8 | 6/28/2022 | 3180.6 | . | Dakind Grinds | Elder | 4/1/2022 | 0 | - | 11 | 8/16/2022 | 4138.2 | . | Skye | Elder | 4/1/2022 | 0 | - | 16 | 8/16/2022 | 3889.9 | . | Herregarden | Member | 4/1/2022 | 0 | - | 16 | 8/16/2022 | 3765.6 | . | Cymon | Elder | 4/1/2022 | 0 | - | 3 | 8/2/2022 | 4160 | . | Stardew | Co-Leader | 4/1/2022 | 1 | 10/7/2022 | 14 | 8/16/2022 | 3674.9 | . | Wheaton | Co-Leader | 4/1/2022 | 0 | - | 13 | 8/16/2022 | 3956.3 | . | Wisteria | Elder | 4/1/2022 | 0 | - | 10 | 7/19/2022 | 3416.7 | . | Em | Member | 4/1/2022 | 0 | - | 13 | 8/9/2022 | 3591.7 | . | Christopher | Member | 4/1/2022 | 1 | 10/8/2022 | 1 | 8/16/2022 | 2240 | . | FarmVille | Member | 4/1/2022 | 0 | - | 14 | 8/2/2022 | 3470.7 | . | Lisa | Elder | 4/1/2022 | 0 | - | 12 | 8/9/2022 | 3336.8 | . | Bethlehem | Member | 4/1/2022 | 0 | - | 9 | 8/9/2022 | 3099.4 | . | Ray | Member | 4/1/2022 | 0 | - | 2 | 8/9/2022 | 4277.5 | . | Couchpotatoe918 | Elder | 5/9/2022 | 0 | - | 14 | 8/16/2022 | 3766.8 | . | Naomi | Member | 6/28/2022 | 0 | - | 6 | 8/16/2022 | 3361.7 | . | K Wheat and See -Quackvl | Member | 7/4/2022 | 0 | - | 7 | 8/16/2022 | 3955 | . | Sao Joaquim | Member | 7/9/2022 | 0 | - | 6 | 8/16/2022 | 3946.7 | . | sparkle up | Member | 8/3/2022 | 0 | - | 0 | 12/30/1899 | | . | Johanneslund | Member | 8/6/2022 | 0 | - | 1 | 8/9/2022 | 2880 | . | Baker | Member | 8/7/2022 | 0 | - | 0 | 12/30/1899 | | . | Bennetts | Member | 8/8/2022 | 0 | - | 0 | 12/30/1899 | | . | Asterin | Member | 8/8/2022 | 0 | - | 0 | 12/30/1899 | | . | Willet | Member | 8/11/2022 | 0 | - | 0 | 12/30/1899 | | . | Sagar's Corner | Member | 8/15/2022 | 0 | - | 0 | 12/30/1899 | | . ",
     "url": "/pages/azuremeadows/member-stats.html",
     "relUrl": "/member-stats.html"
   },"14": {
