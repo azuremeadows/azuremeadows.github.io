@@ -13,6 +13,11 @@
 		}	
 	},
 
+	"mounts": [
+		"type=bind,source=${localWorkspaceFolder}/../trickywheat_me.bash,destination=${containerWorkspaceFolder}/../trickywheat_me.bash,readonly=true",
+		"type=bind,source=${localEnv:HOME}/.ssh/id_ed25519.trickywheat-git,destination=${containerWorkspaceFolder}/../id_ed25519.trickywheat-git,readonly=true"
+	],
+
 	// Set *default* container specific settings.json values on container create.
 	"settings": {},
 
