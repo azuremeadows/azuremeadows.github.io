@@ -23,12 +23,6 @@ Some derbies require us to coordinate our actions so be sure to look out for tha
 
 Neighbors are strongly encouraged to utilize the Requests panel if they would like Elders to reserve a task that would normally be trashed.
 
-# Town Tasks
-
-Generally speaking, tasks associated with The Town are kept.  In previous derbies, individual town visitor tasks (e.g. Dancer, Strongman, Teacher, etc.) were trashed.  However, as more participants start opening up the Town, they have been left open.  
-
-Instead, these tasks are often trashed if tasks stay up for more than a day.
-
 # Task Requests
 
 If you'd like a task that is normally trashed, please let us know on the Discord server (preferred) utilizing the Requests panel.  We will try our best to not trash it but please keep in mind that mistakes happen.
