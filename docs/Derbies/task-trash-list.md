@@ -1,7 +1,7 @@
 ---
 title: Derby Trash List - Proposed
 parent: Derbies
-nav_order: 99
+nav_order: 2
 ---
 
 **Note:** Effective: December 6, 2022
