@@ -14,8 +14,8 @@
 	},
 
 	"mounts": [
-		"type=bind,source=${localWorkspaceFolder}/../trickywheat_me.bash,destination=${containerWorkspaceFolder}/../trickywheat_me.bash,readonly=true",
-		"type=bind,source=${localEnv:HOME}/.ssh/id_ed25519.trickywheat-git,destination=${containerWorkspaceFolder}/../id_ed25519.trickywheat-git,readonly=true"
+		"type=bind,source=${localWorkspaceFolder}/../trickywheat_me.bash,destination=/mnt/local/trickywheat_me.bash,readonly=true",
+		"type=bind,source=${localEnv:HOME}/.ssh/id_ed25519.trickywheat-git,destination=/mnt/local/id_ed25519,readonly=true"
 	],
 
 	// Set *default* container specific settings.json values on container create.
@@ -35,7 +35,11 @@
 	],
 
 	// Use 'postCreateCommand' to run commands after the container is created.
-	"postCreateCommand": "sh .devcontainer/post-create.sh",
+	"postCreateCommand": {
+		"build-gems": "sh .devcontainer/post-create.sh",
+		"add-ssh-key": "ln -s /mnt/local/id_ed25519 ${HOME}/.ssh/id_ed25519",
+		"run-local-git-config": "bash -xe /mnt/local/trickywheat_me.bash"
+	},
 
 	// Comment out to connect as root instead. More info: https://aka.ms/vscode-remote/containers/non-root.
 	"remoteUser": "vscode"
