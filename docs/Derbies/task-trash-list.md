@@ -1,5 +1,5 @@
 ---
-title: Derby Trash List - Proposed
+title: Derby Trash List
 parent: Derbies
 nav_order: 2
 ---
