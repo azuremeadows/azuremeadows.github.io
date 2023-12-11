@@ -29,59 +29,59 @@
   },"4": {
     "doc": "Derby Performance History",
     "title": "Derby Performance History",
-    "content": "Derby information is based on the last four completed derbies. Information last updated on 2023-12-04 23:11 UTC . | Starting Date | Type | Participants | Place | Total Points | Average Points per Player | Tasks Completed | Tasks Assigned | Average Points per Task | . | 11/7/2023 | Normal | 15 | 1 | 45086 | 3005.7 | 141 | 141 | 319.8 | . | 11/14/2023 | Bunny | 11 | 3 | 32640 | 2967.3 | 102 | 102 | 320.0 | . | 11/21/2023 | Power | 11 | 1 | 64640 | 5876.4 | 204 | 204 | 316.9 | . | 11/28/2023 | Normal | 13 | 2 | 40320 | 3101.5 | 126 | 126 | 320.0 | . ",
+    "content": "Derby information is based on the last four completed derbies. Information last updated on 2023-12-11 23:11 UTC . | Starting Date | Type | Participants | Place | Total Points | Average Points per Player | Tasks Completed | Tasks Assigned | Average Points per Task | . | 11/14/2023 | Bunny | 11 | 3 | 32640 | 2967.3 | 102 | 102 | 320.0 | . | 11/21/2023 | Power | 11 | 1 | 64640 | 5876.4 | 204 | 204 | 316.9 | . | 11/28/2023 | Normal | 13 | 2 | 40320 | 3101.5 | 126 | 126 | 320.0 | . | 12/5/2023 | Normal | 13 | 3 | 40640 | 3126.2 | 127 | 127 | 320.0 | . ",
     "url": "/pages/azuremeadows/Derbies/history.html",
     
     "relUrl": "/Derbies/history.html"
   },"5": {
-    "doc": "Neighborhood",
-    "title": "Neighborhood",
-    "content": " ",
-    "url": "/pages/azuremeadows/Neighborhood/",
-    
-    "relUrl": "/Neighborhood/"
-  },"6": {
-    "doc": "Derbies",
-    "title": "Derbies",
-    "content": " ",
-    "url": "/pages/azuremeadows/Derbies/",
-    
-    "relUrl": "/Derbies/"
-  },"7": {
-    "doc": "Azure Meadows",
-    "title": "Welcome to Azure Meadows",
-    "content": "Azure Meadows is a Hay Day Neighborhood (aka Guild, Clan, Alliance, Team, etc.). This website has all of the rules and team norms for the neighborhood. ",
-    "url": "/pages/azuremeadows/index.html#welcome-to-azure-meadows",
-    
-    "relUrl": "/index.html#welcome-to-azure-meadows"
-  },"8": {
-    "doc": "Azure Meadows",
-    "title": "Neighborhood Tags",
-    "content": "Fun . Active . Derby Focus . Derby: 320 Only . Helpers . ",
-    "url": "/pages/azuremeadows/index.html#neighborhood-tags",
-    
-    "relUrl": "/index.html#neighborhood-tags"
-  },"9": {
-    "doc": "Azure Meadows",
-    "title": "Neighborhood Stats",
-    "content": "Derby information is based on the last four completed derbies. | Number of Members: 29 | Derby League: Champion | Average Derby Placement: 2.9 | Average Number of Derby Participants: 14.5 | Average Total Derby Points: 48330.7 | Average Points per Player: 3385.8 | Percentage of All Tasks Completed: 97.9% | . Information last updated on 2023-12-04 23:11 UTC . ",
-    "url": "/pages/azuremeadows/index.html#neighborhood-stats",
-    
-    "relUrl": "/index.html#neighborhood-stats"
-  },"10": {
-    "doc": "Azure Meadows",
-    "title": "Azure Meadows",
-    "content": " ",
-    "url": "/pages/azuremeadows/index.html",
-    
-    "relUrl": "/index.html"
-  },"11": {
     "doc": "Elder Info",
     "title": "Elder Info",
     "content": " ",
     "url": "/pages/azuremeadows/elderInfo/",
     
     "relUrl": "/elderInfo/"
+  },"6": {
+    "doc": "Azure Meadows",
+    "title": "Welcome to Azure Meadows",
+    "content": "Azure Meadows is a Hay Day Neighborhood (aka Guild, Clan, Alliance, Team, etc.). This website has all of the rules and team norms for the neighborhood. ",
+    "url": "/pages/azuremeadows/index.html#welcome-to-azure-meadows",
+    
+    "relUrl": "/index.html#welcome-to-azure-meadows"
+  },"7": {
+    "doc": "Azure Meadows",
+    "title": "Neighborhood Tags",
+    "content": "Fun . Active . Derby Focus . Derby: 320 Only . Helpers . ",
+    "url": "/pages/azuremeadows/index.html#neighborhood-tags",
+    
+    "relUrl": "/index.html#neighborhood-tags"
+  },"8": {
+    "doc": "Azure Meadows",
+    "title": "Neighborhood Stats",
+    "content": "Derby information is based on the last four completed derbies. | Number of Members: 29 | Derby League: Champion | Average Derby Placement: 2.9 | Average Number of Derby Participants: 14.5 | Average Total Derby Points: 48239.2 | Average Points per Player: 3382.7 | Percentage of All Tasks Completed: 97.9% | . Information last updated on 2023-12-11 23:11 UTC . ",
+    "url": "/pages/azuremeadows/index.html#neighborhood-stats",
+    
+    "relUrl": "/index.html#neighborhood-stats"
+  },"9": {
+    "doc": "Azure Meadows",
+    "title": "Azure Meadows",
+    "content": " ",
+    "url": "/pages/azuremeadows/index.html",
+    
+    "relUrl": "/index.html"
+  },"10": {
+    "doc": "Neighborhood",
+    "title": "Neighborhood",
+    "content": " ",
+    "url": "/pages/azuremeadows/Neighborhood/",
+    
+    "relUrl": "/Neighborhood/"
+  },"11": {
+    "doc": "Derbies",
+    "title": "Derbies",
+    "content": " ",
+    "url": "/pages/azuremeadows/Derbies/",
+    
+    "relUrl": "/Derbies/"
   },"12": {
     "doc": "Member Stats",
     "title": "Notes",
@@ -92,7 +92,7 @@
   },"13": {
     "doc": "Member Stats",
     "title": "Member Stats",
-    "content": "Derby information is based on the last four completed derbies. Strikes are removed after 60 days. Information last updated on 2023-12-04 23:11 UTC UTC . | Neighbor | Role | Joined Neighborhood | Strikes | Next Strike Expiration | Number of Derbies | Last Derby | Average Number of Points | . | Kemzow | Leader | 4/1/2022 | 0 | - | 78 | 11/28/2023 | 3588.4 | . | Nostradavemus | Elder | 4/1/2022 | 0 | - | 77 | 11/28/2023 | 3428.1 | . | Skye | Elder | 4/1/2022 | 1 | 12/8/2023 | 29 | 6/20/2023 | 3829.9 | . | Stardew | Co-Leader | 4/1/2022 | 0 | - | 51 | 11/28/2023 | 3492.9 | . | Wheaton | Co-Leader | 4/1/2022 | 0 | - | 56 | 11/28/2023 | 3080.2 | . | Ray | Member | 4/1/2022 | 1 | 12/8/2023 | 7 | 10/24/2023 | 3293.6 | . | Couchpotatoe918 | Elder | 5/9/2022 | 0 | - | 55 | 11/7/2023 | 3390.3 | . | Naomi | Member | 6/28/2022 | 0 | - | 22 | 9/5/2023 | 2925.7 | . | Sao Joaquim | Elder | 7/9/2022 | 1 | 12/8/2023 | 35 | 6/20/2023 | 3312.7 | . | Baker | Member | 8/7/2022 | 0 | - | 50 | 10/31/2023 | 3055 | . | Sagar | Member | 4/1/2022 | 0 | - | 25 | 11/28/2023 | 3623.9 | . | KY | Member | 10/7/2022 | 0 | - | 19 | 9/5/2023 | 3056 | . | Gracie222 | Elder | 11/8/2022 | 0 | - | 34 | 11/28/2023 | 3327.3 | . | CourtneyAnn | Member | 12/5/2022 | 0 | - | 19 | 8/8/2023 | 3053.7 | . | Nanda | Member | 12/5/2022 | 0 | - | 31 | 11/21/2023 | 3042.1 | . | cara | Member | 1/16/2023 | 0 | - | 37 | 11/21/2023 | 3319.1 | . | Abbie | Member | 1/22/2023 | 0 | - | 15 | 8/8/2023 | 3404 | . | Bethlehem | Member | 4/1/2022 | 0 | - | 53 | 11/21/2023 | 3110.3 | . | vroom | Member | 3/29/2023 | 0 | - | 27 | 11/7/2023 | 3326.9 | . | Taylor | Member | 3/27/2023 | 1 | 12/15/2023 | 33 | 11/21/2023 | 3389.2 | . | froggy | Member | 4/3/2023 | 0 | - | 26 | 11/28/2023 | 3622.3 | . | Jess | Member | 4/28/2023 | 0 | - | 11 | 10/3/2023 | 3086 | . | Willet | Member | 6/27/2023 | 0 | - | 22 | 11/28/2023 | 3129.4 | . | Dagi | Member | 8/11/2023 | 0 | - | 5 | 10/31/2023 | 3216 | . | Cherry | Member | 8/15/2023 | 0 | - | 7 | 11/28/2023 | 2989.6 | . | LYKKESTJERNEN | Member | 8/27/2023 | 1 | 1/12/2024 | 14 | 11/28/2023 | 3070.4 | . | Brewstorm | Member | 8/28/2023 | 0 | - | 14 | 11/28/2023 | 3317.5 | . | U-Shawn | Member | 9/5/2022 | 0 | - | 13 | 11/28/2023 | 3085.8 | . | Dakind Grinds | Member | 10/26/2023 | 0 | - | 22 | 11/28/2023 | 3586.8 | . ",
+    "content": "Derby information is based on the last four completed derbies. Strikes are removed after 60 days. Information last updated on 2023-12-11 23:11 UTC UTC . | Neighbor | Role | Joined Neighborhood | Strikes | Next Strike Expiration | Number of Derbies | Last Derby | Average Number of Points | . | Kemzow | Leader | 4/1/2022 | 0 | - | 79 | 12/5/2023 | 3583.5 | . | Nostradavemus | Elder | 4/1/2022 | 0 | - | 78 | 12/5/2023 | 3425.2 | . | Skye | Elder | 4/1/2022 | 0 | - | 29 | 6/20/2023 | 3829.9 | . | Stardew | Co-Leader | 4/1/2022 | 0 | - | 52 | 12/5/2023 | 3487.3 | . | Wheaton | Co-Leader | 4/1/2022 | 0 | - | 57 | 12/5/2023 | 3082.3 | . | Ray | Member | 4/1/2022 | 0 | - | 7 | 10/24/2023 | 3293.6 | . | Couchpotatoe918 | Elder | 5/9/2022 | 0 | - | 55 | 11/7/2023 | 3390.3 | . | Naomi | Member | 6/28/2022 | 0 | - | 22 | 9/5/2023 | 2925.7 | . | Sao Joaquim | Elder | 7/9/2022 | 0 | - | 35 | 6/20/2023 | 3312.7 | . | Baker | Member | 8/7/2022 | 0 | - | 50 | 10/31/2023 | 3055 | . | Sagar | Member | 4/1/2022 | 0 | - | 26 | 12/5/2023 | 3607.6 | . | KY | Member | 10/7/2022 | 0 | - | 19 | 9/5/2023 | 3056 | . | Gracie222 | Elder | 11/8/2022 | 0 | - | 35 | 12/5/2023 | 3323.7 | . | CourtneyAnn | Member | 12/5/2022 | 0 | - | 19 | 8/8/2023 | 3053.7 | . | Nanda | Member | 12/5/2022 | 0 | - | 31 | 11/21/2023 | 3042.1 | . | cara | Member | 1/16/2023 | 0 | - | 38 | 12/5/2023 | 3307.6 | . | Abbie | Member | 1/22/2023 | 0 | - | 15 | 8/8/2023 | 3404 | . | Bethlehem | Member | 4/1/2022 | 0 | - | 54 | 12/5/2023 | 3106.1 | . | vroom | Member | 3/29/2023 | 0 | - | 27 | 11/7/2023 | 3326.9 | . | Taylor | Member | 3/27/2023 | 1 | 12/15/2023 | 34 | 12/5/2023 | 3374.2 | . | froggy | Member | 4/3/2023 | 0 | - | 27 | 12/5/2023 | 3606.7 | . | Jess | Member | 4/28/2023 | 0 | - | 11 | 10/3/2023 | 3086 | . | Willet | Member | 6/27/2023 | 0 | - | 23 | 12/5/2023 | 3132.5 | . | Dagi | Member | 8/11/2023 | 0 | - | 5 | 10/31/2023 | 3216 | . | Cherry | Member | 8/15/2023 | 0 | - | 7 | 11/28/2023 | 2989.6 | . | LYKKESTJERNEN | Member | 8/27/2023 | 1 | 1/12/2024 | 14 | 11/28/2023 | 3070.4 | . | Brewstorm | Member | 8/28/2023 | 0 | - | 15 | 12/5/2023 | 3309.7 | . | U-Shawn | Member | 9/5/2022 | 0 | - | 13 | 11/28/2023 | 3085.8 | . | Dakind Grinds | Member | 10/26/2023 | 0 | - | 23 | 12/5/2023 | 3570 | . ",
     "url": "/pages/azuremeadows/member-stats.html",
     
     "relUrl": "/member-stats.html"
