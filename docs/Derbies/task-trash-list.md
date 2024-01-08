@@ -4,7 +4,7 @@ parent: Derbies
 nav_order: 2
 ---
 
-**Note:** Effective: December 6, 2022
+**Note:** Effective: January 9, 2024
 
 Since each derby type has it's own set of quirks, this page lists tasks that are generally trashed.  If there are events or if the derby type requires the completion of a task noted below, the elders will make this announcement in the Discord server.
 
@@ -12,14 +12,9 @@ Since each derby type has it's own set of quirks, this page lists tasks that are
 - Items that take longer than 4 hours to produce (e.g. Tomatoes, Strawberries, etc)
 - Goods produced on machines (e.g. pies, juice, bread, smoothies)
 - "Picnic Basket" tasks where more than one activity must be performed, with the exception of Town Visitor Baskets (e.g. serve 5 of each Teacher, Grand Master, Local)
-- Fishing Tasks
 - Tasks that remain on the board for 16-24 hours (See details below)
 
-To keep the board diverse with different tasks, we'll limit the following to just one task on the board:
-- Boat Tasks
-- Truck Delivery Tasks
-
-Some derbies require us to coordinate our actions so be sure to look out for that.
+To keep the board diverse with different tasks, we'll limit other tasks not removed to just one.  Multiple copies of popular tasks like Wheat, Mining, Town Visitor, etc. will continue to remain on the board until an Elder thinks they aren't being taken fast enough.
 
 Neighbors are strongly encouraged to utilize the Requests panel if they would like Elders to reserve a task that would normally be trashed.
 
@@ -35,8 +30,11 @@ Some tasks are **very** popular such as wheat, mining, and town visitor tasks.  
 
 For town visitor tasks specifically, it has been noted that HayDay tends to limit specific types of visitors if there is a task active.  e.g. if you have a Lady task, you'll find they don't come as frequently on your or your neighbors' trains.  So it's often best to have all of them queued before taking the task.
 
+Some derbies require us to coordinate our actions so be sure to look out for that.  This is especially true for Bingo derbies so please watch the announcements channel for that.
+
 ## 24-hour Trash
 
 Timezones and other factors will make this rule challenging.  The goal of this rule is to ensure tasks on the board are things people want to complete.  So it will be really important that if you are prepping for a task overnight, you let us know so we don't trash it.  Trashing these task will occur without notice and the elders aren't keeping track of when tasks land on the board.
 
 We have elders scattered around the world and think that enough of us will catch a task that's been around for a while.
+
