@@ -11,8 +11,10 @@ Since each derby type has it's own set of quirks, this page lists tasks that are
 - Any task that is less than 320 points
 - Items that take longer than 4 hours to produce (e.g. Tomatoes, Strawberries, etc)
 - Goods produced on machines (e.g. pies, juice, bread, smoothies)
-- "Picnic Basket" tasks where more than one activity must be performed, with the exception of Town Visitor Baskets (e.g. serve 5 of each Teacher, Grand Master, Local)
+- "Picnic Basket" tasks where more than one activity must be performed
 - Tasks that remain on the board for 16-24 hours (See details below)
+- Town Service Building tasks (e.g. Serve 16 people in the Grocery Store)
+- Individual Townie Tasks (e.g. Serve 9 Actresses)
 
 To keep the board diverse with different tasks, we'll limit other tasks not removed to just one.  Multiple copies of popular tasks like Wheat, Mining, Town Visitor, etc. will continue to remain on the board until an Elder thinks they aren't being taken fast enough.
 
