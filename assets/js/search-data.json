@@ -29,17 +29,17 @@
   },"4": {
     "doc": "Derby Performance History",
     "title": "Derby Performance History",
-    "content": "Derby information is based on the last four completed derbies. Information last updated on 2024-09-16 23:13 UTC . | Starting Date | Type | Participants | Place | Total Points | Average Points per Player | Tasks Completed | Tasks Assigned | Average Points per Task | . | 8/20/2024 | Blossom | 7 | 3 | 23590 | 3370.0 | 64 | 64 | 368.6 | . | 8/27/2024 | Bunny | 8 | 1 | 46703 | 5837.9 | 146 | | | . | 9/3/2024 | Normal | 7 | 6 | 20160 | 2880.0 | 63 | | | . ",
+    "content": "Derby information is based on the last four completed derbies. Information last updated on 2024-09-23 23:13 UTC . | Starting Date | Type | Participants | Place | Total Points | Average Points per Player | Tasks Completed | Tasks Assigned | Average Points per Task | . | 8/27/2024 | Bunny | 8 | 1 | 46703 | 5837.9 | 146 | | | . | 9/3/2024 | Normal | 7 | 6 | 20160 | 2880.0 | 63 | | | . ",
     "url": "/pages/azuremeadows/Derbies/history.html",
     
     "relUrl": "/Derbies/history.html"
   },"5": {
-    "doc": "Neighborhood",
-    "title": "Neighborhood",
+    "doc": "Elder Info",
+    "title": "Elder Info",
     "content": " ",
-    "url": "/pages/azuremeadows/Neighborhood/",
+    "url": "/pages/azuremeadows/elderInfo/",
     
-    "relUrl": "/Neighborhood/"
+    "relUrl": "/elderInfo/"
   },"6": {
     "doc": "Derbies",
     "title": "Derbies",
@@ -64,7 +64,7 @@
   },"9": {
     "doc": "Azure Meadows",
     "title": "Neighborhood Stats",
-    "content": "Derby information is based on the last four completed derbies. | Number of Members: 20 | Derby League: Champion | Average Derby Placement: 2.8 | Average Number of Derby Participants: 13.7 | Average Total Derby Points: 45685.8 | Average Points per Player: 3405.4 | Percentage of All Tasks Completed: 99.1% | . Information last updated on 2024-09-16 23:13 UTC . ",
+    "content": "Derby information is based on the last four completed derbies. | Number of Members: 20 | Derby League: Champion | Average Derby Placement: 2.8 | Average Number of Derby Participants: 13.7 | Average Total Derby Points: 45685.8 | Average Points per Player: 3405.4 | Percentage of All Tasks Completed: 99.1% | . Information last updated on 2024-09-23 23:13 UTC . ",
     "url": "/pages/azuremeadows/index.html#neighborhood-stats",
     
     "relUrl": "/index.html#neighborhood-stats"
@@ -76,12 +76,12 @@
     
     "relUrl": "/index.html"
   },"11": {
-    "doc": "Elder Info",
-    "title": "Elder Info",
+    "doc": "Neighborhood",
+    "title": "Neighborhood",
     "content": " ",
-    "url": "/pages/azuremeadows/elderInfo/",
+    "url": "/pages/azuremeadows/Neighborhood/",
     
-    "relUrl": "/elderInfo/"
+    "relUrl": "/Neighborhood/"
   },"12": {
     "doc": "Member Stats",
     "title": "Notes",
@@ -92,7 +92,7 @@
   },"13": {
     "doc": "Member Stats",
     "title": "Member Stats",
-    "content": "Derby information is based on the last four completed derbies. Strikes are removed after 60 days. Information last updated on 2024-09-16 23:13 UTC UTC . | Neighbor | Role | Joined Neighborhood | Strikes | Next Strike Expiration | Number of Derbies | Last Derby | Average Number of Points | . | Kemzow | Leader | 4/1/2022 | 0 | - | 117 | 9/3/2024 | 3613.7 | . | Nostradavemus | Elder | 4/1/2022 | 0 | - | 116 | 9/3/2024 | 3452.7 | . | Stardew | Co-Leader | 4/1/2022 | 0 | - | 59 | 6/18/2024 | 3445.7 | . | Wheaton | Co-Leader | 4/1/2022 | 0 | - | 84 | 8/20/2024 | 3051.3 | . | Couchpotatoe918 | Elder | 5/9/2022 | 0 | - | 68 | 8/27/2024 | 3375.7 | . | Baker | Member | 8/7/2022 | 0 | - | 83 | 9/3/2024 | 3137.1 | . | Sagar | Elder | 4/1/2022 | 0 | - | 54 | 9/3/2024 | 3733.4 | . | KY | Member | 10/7/2022 | 0 | - | 23 | 3/19/2024 | 3157.4 | . | Gracie222 | Elder | 11/8/2022 | 0 | - | 46 | 6/18/2024 | 3386.3 | . | Nanda | Member | 12/5/2022 | 0 | - | 37 | 3/19/2024 | 3030.5 | . | cara | Member | 1/16/2023 | 0 | - | 71 | 9/3/2024 | 3371.7 | . | Bethlehem | Elder | 4/1/2022 | 0 | - | 72 | 8/20/2024 | 3038.8 | . | Taylor | Member | 3/27/2023 | 0 | - | 48 | 8/27/2024 | 3471.9 | . | froggy | Member | 4/3/2023 | 0 | - | 34 | 4/9/2024 | 3609.3 | . | Brewstorm | Member | 8/28/2023 | 0 | - | 50 | 7/30/2024 | 3461.7 | . | Dakind Grinds | Member | 10/26/2023 | 0 | - | 40 | 7/30/2024 | 3692.2 | . | Ram Ranch | Member | 1/8/2024 | 0 | - | 20 | 9/3/2024 | 2879.5 | . | SenKyo | Member | 1/22/2024 | 0 | - | 30 | 9/3/2024 | 3417.5 | . | Canadian Farmers | Member | 2/11/2024 | 0 | - | 16 | 7/16/2024 | 3204.4 | . | BrewTwo | Member | 5/20/2024 | 0 | - | 9 | 7/30/2024 | 3670.6 | . ",
+    "content": "Derby information is based on the last four completed derbies. Strikes are removed after 60 days. Information last updated on 2024-09-23 23:13 UTC UTC . | Neighbor | Role | Joined Neighborhood | Strikes | Next Strike Expiration | Number of Derbies | Last Derby | Average Number of Points | . | Kemzow | Leader | 4/1/2022 | 0 | - | 117 | 9/3/2024 | 3613.7 | . | Nostradavemus | Elder | 4/1/2022 | 0 | - | 116 | 9/3/2024 | 3452.7 | . | Stardew | Co-Leader | 4/1/2022 | 0 | - | 59 | 6/18/2024 | 3445.7 | . | Wheaton | Co-Leader | 4/1/2022 | 0 | - | 84 | 8/20/2024 | 3051.3 | . | Couchpotatoe918 | Elder | 5/9/2022 | 0 | - | 68 | 8/27/2024 | 3375.7 | . | Baker | Member | 8/7/2022 | 0 | - | 83 | 9/3/2024 | 3137.1 | . | Sagar | Elder | 4/1/2022 | 0 | - | 54 | 9/3/2024 | 3733.4 | . | KY | Member | 10/7/2022 | 0 | - | 23 | 3/19/2024 | 3157.4 | . | Gracie222 | Elder | 11/8/2022 | 0 | - | 46 | 6/18/2024 | 3386.3 | . | Nanda | Member | 12/5/2022 | 0 | - | 37 | 3/19/2024 | 3030.5 | . | cara | Member | 1/16/2023 | 0 | - | 71 | 9/3/2024 | 3371.7 | . | Bethlehem | Elder | 4/1/2022 | 0 | - | 72 | 8/20/2024 | 3038.8 | . | Taylor | Member | 3/27/2023 | 0 | - | 48 | 8/27/2024 | 3471.9 | . | froggy | Member | 4/3/2023 | 0 | - | 34 | 4/9/2024 | 3609.3 | . | Brewstorm | Member | 8/28/2023 | 0 | - | 50 | 7/30/2024 | 3461.7 | . | Dakind Grinds | Member | 10/26/2023 | 0 | - | 40 | 7/30/2024 | 3692.2 | . | Ram Ranch | Member | 1/8/2024 | 0 | - | 20 | 9/3/2024 | 2879.5 | . | SenKyo | Member | 1/22/2024 | 0 | - | 30 | 9/3/2024 | 3417.5 | . | Canadian Farmers | Member | 2/11/2024 | 0 | - | 16 | 7/16/2024 | 3204.4 | . | BrewTwo | Member | 5/20/2024 | 0 | - | 9 | 7/30/2024 | 3670.6 | . ",
     "url": "/pages/azuremeadows/member-stats.html",
     
     "relUrl": "/member-stats.html"
